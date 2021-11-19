@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CMoneyTest</string>
+    <string name="first_page_title">Astronomy Picture of the Day</string>
+    <string name="first_page_action_button">Request</string>
+    <string name="list_page_error_message">Oops!!Something wrong...</string>
+    <string name="list_page_loading">Loading...</string>
+    <string name="detail_page_copyright">Credit &amp; Copyright: %1$s</string>
+</resources>
